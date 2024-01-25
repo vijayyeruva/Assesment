@@ -1,0 +1,17 @@
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Code\.net\ConsoleApp\ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CopyComplete
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Code\.net\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
